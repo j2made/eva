@@ -1,6 +1,7 @@
 {
   "name": "j2made/eva",
   "description": "Adds functionality to Apollo and Gemini stacks.",
+  "type": "wordpress-theme",
   "authors": [
     {
       "name": "Shaun M. Baer",
