@@ -1,0 +1,19 @@
+{
+  "name": "j2made/eva",
+  "description": "Adds functionality to Apollo and Gemini stacks.",
+  "authors": [
+    {
+      "name": "Shaun M. Baer",
+      "email": "shaun.baer@gmail.com",
+      "homepage": "http://github.com/iamhexcoder",
+    },
+    {
+      "name": "Dan Olson",
+      "email": "emaildano@gmail.com",
+      "homepage": "http://github.com/emaildano",
+    }
+  ],
+  "require": {
+    "php": ">=5.3.0"
+  }
+}
